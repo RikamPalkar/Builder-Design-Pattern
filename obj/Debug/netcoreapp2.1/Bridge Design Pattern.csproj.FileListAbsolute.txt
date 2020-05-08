@@ -1,0 +1,11 @@
+C:\Users\Rikam\source\repos\Bridge Design Pattern\bin\Debug\netcoreapp2.1\Bridge Design Pattern.deps.json
+C:\Users\Rikam\source\repos\Bridge Design Pattern\bin\Debug\netcoreapp2.1\Bridge Design Pattern.runtimeconfig.json
+C:\Users\Rikam\source\repos\Bridge Design Pattern\bin\Debug\netcoreapp2.1\Bridge Design Pattern.runtimeconfig.dev.json
+C:\Users\Rikam\source\repos\Bridge Design Pattern\bin\Debug\netcoreapp2.1\Bridge Design Pattern.dll
+C:\Users\Rikam\source\repos\Bridge Design Pattern\bin\Debug\netcoreapp2.1\Bridge Design Pattern.pdb
+C:\Users\Rikam\source\repos\Bridge Design Pattern\obj\Debug\netcoreapp2.1\Bridge Design Pattern.csprojAssemblyReference.cache
+C:\Users\Rikam\source\repos\Bridge Design Pattern\obj\Debug\netcoreapp2.1\Bridge Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Rikam\source\repos\Bridge Design Pattern\obj\Debug\netcoreapp2.1\Bridge Design Pattern.AssemblyInfoInputs.cache
+C:\Users\Rikam\source\repos\Bridge Design Pattern\obj\Debug\netcoreapp2.1\Bridge Design Pattern.AssemblyInfo.cs
+C:\Users\Rikam\source\repos\Bridge Design Pattern\obj\Debug\netcoreapp2.1\Bridge Design Pattern.dll
+C:\Users\Rikam\source\repos\Bridge Design Pattern\obj\Debug\netcoreapp2.1\Bridge Design Pattern.pdb
